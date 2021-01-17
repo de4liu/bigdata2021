@@ -5,11 +5,11 @@
 Instructor| **Dr. De Liu** 
 -|-
 Email | [deliu@umn.edu](mailto:deliu@umn.edu) 
-Contact | Slack (http://msba6330spring2021.slack.com) or email 
-Zoom Meetings | Sec 1:  Mondays 8:30-9:45am  Sec 2: Mondays 1:00-2:15pm 
-Office Hours/Live Support | Sec 1:  Mondays 9:45-11:00am  Sec 2: Mondays 2:15-3:30pm 
+Contact | Slack (http://msba6330spring2021.slack.com) or email
+Zoom Meetings | Sec 1:  Mon 8:30-9:45am / Sec 2: Mon 1:00-2:15pm 
+Office/Study Hours | Sec 1: Mon 10:00-11:00am / Sec 2: Mon 2:30-3:30pm, or by appointment
 Course Server | [z.umn.edu/csom-atk](https://z.umn.edu/csom-atk) 
-Teaching Assistant | TBA 
+Teaching Assistant | Benjamin Lilja (lilja042@umn.edu)
 
 ## 1. INTRODUCTION
 
@@ -60,12 +60,12 @@ Your grade will be based on the following activities (tentative):
 
 | **Activity** | **Grade %** |
 | --- | --- |
-| Team Project | 12% |
+| Team Project | 15% |
 | Homework Assignments (7) | 21%, 3% each |
 | Self-assessment quizzes | 10% |
 | Lab completion | 5% |
 | Participation | 2% |
-| Midterm Exam | 25% |
+| Midterm Exam | 22% |
 | Final Exam | 25% |
 
 A final letter grade is given according to the following scale.
