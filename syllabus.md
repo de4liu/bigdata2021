@@ -82,7 +82,21 @@ Though it rarely happens, this scale may be adjusted to ensure compliance with M
 
 ## 6.1 Participation credits
 
-You can earn participation credits by completing surveys, Flipgrid-based participation assignments (e.g. submit a video self introduction video), Zoom participation records, etc.  Instructor reserves the rights adjust participation credits based on subjective evaluation of student participation in Zoom classes and on asynchronous channels (e.g. Slack/Flipgrid). 
+You can earn participation credits by:
+
+- Assignment-based participation activities: **1.5% of course grade**
+    - completing surveys on time 
+    - completing participation assignments (e.g. submit a self-introduction video)
+- sharing big-data related news, articles, and questions in the **#bigdata-news-articles channel**; posting comments to articles shared in the **#bigdata-news-articles channel**: **0.5% course grade**. The tentative grading scheme is as follows:
+    + a post of at least 20 words in the **#bigdata-news-articles channel**: 10 points
+    + a comment of at least 5 words in the **#bigdata-news-articles channel**: 2 points
+    + you will receive the full 0.5% course grade if you reach 20 points.
+    + Only your **first post** at a given day will receive points
+    + only your **first 3 comments** at a given day will receive points
+    + contribution at the end of the semester may be cut off, so do not wait till the last minute to post articles/comments.
+    + Instructor reserves the right to change Slack participation grading scheme (notice will be given).
+
+Instructor reserves the right to adjust participation credits based on subjective evaluation of student participation: e.g., Zoom participation, quality of slack contribution, slack contribution in other channels, etc.
 
 ## 7. HOMEWORK ASSIGNMENTS
 
@@ -94,9 +108,9 @@ Citing someone else's work (including those from the Internet) without accrediti
 
 ### 7.2 Late Policy - Flex Days
 
-**You have 5 flex days** that you may use at your discretion to defer the due date of a homework assignment, self-assessment quiz, or a team project (late lab completion is not accepted). You must use your flex days in the whole day (24 hours) increments. You can defer a single assignment by **a maximum of 2 days**. 
+**You have 5 flex days** that you may use at your discretion to defer the due date of a homework assignment or self-assessment quizzes (a set of self-assessments due on the same day is considered one "assignment"). You must use your flex days in the whole day (24 hours) increments. You can defer a single assignment by **a maximum of 2 days**. 
 
-You do not need to notify us if you want to use your flex days! Submit your homework when ready and the proper number of flex days will be deducted. Flex days may only be used for homework. You may not use flex days to defer the due date of self-assessment quizzes, active quizzes, your team project, or exams.
+You do not need to notify us if you want to use your flex days on homework or self-assessment quizzes! Submit your homework/self-assessment quizzes when ready and the proper number of flex days will be deducted. If you do not want to use your flex days on a certain assignment, please let the TA know. 
 
 Flex days are intended to be used for unforeseen circumstances such as technical difficulties, family emergencies, and personal illness. **After your flex days have been used for the semester, late work will not be accepted and will earn no credit (0 points)**.
 
@@ -148,7 +162,7 @@ We use zoom for synchronous meetings & office hours.
 
 ### Getting Help
 
-Slack is the best way to reach the instructor. If you have a technical problem, please attach the scripts, screenshot, error message if any. Appointments are also welcome. For general technical problems concerning user accounts, hardware, or software, you may contact the  [OIT Help Desk](http://goo.gl/pjMh1K).
+Slack is the best way to reach the instructor. If you have a technical problem, please attach the scripts, screen-shot, error message if any. Appointments are also welcome. For general technical problems concerning user accounts, hardware, or software, you may contact the  [OIT Help Desk](http://goo.gl/pjMh1K).
 
 ### Academic Integrity and Scholastic Dishonesty
 
@@ -169,22 +183,22 @@ To make this class more accessible to all enrolled students, we intend to record
 
 ## Schedule (tentative and subject to change)
 
- |Date | Subject | Assignments 
--- | -- | -- | -- 
-1 |Jan 19 - 25 | Introduction, Linux Shell, Big Data |
-2 |Jan 26 - Feb 1 | Hadoop MapReduce & Ecosystem | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 1</strong> 
-3 |Feb 2 - 8 | Introduction to Hive | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 2</strong>
-4 |Feb 9 - 15 | Hive Optimization & Textual Data Handling | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 3</strong> 
-5 |Feb 16 - 22 | Introduction to Apache Spark | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 4 </strong> 
-6 |Feb 23 - Mar 1 | Spark SQL |  
-7 |Mar 2 - 8 | **<span style='color:red;font-weight:bold'>Midterm Exam</span>** |  
-8 |Mar 9 - 15 | Spark SQL & Spark ML | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 5 </strong> 
-9 |Mar 16 - 22 | Spark ML                                                     | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 6 </strong> 
-10 |Mar 23 - 29 | Spark Streaming |  
-11 |Mar 30 - Apr 5 | **<span style='color:green;font-weight:bold'>Spring Break</span>** |  
-12 |Apr 6 - 12 | Cloud Computing & AWS | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 7 </strong> 
-13 |Apr 13 - 19 | NoSQL | 
-14 |Apr 20 - 26 | TBD | 
-15 |Apr 27 - May 3 | **<span style='color:green;font-weight:bold'>Trend Marketplace</span>** | 
+|-- |Date | Subject | Assignments 
+| -- | -- | -- | -- 
+|1 |Jan 19 - 25 | Introduction, Linux Shell, Big Data |
+|2 |Jan 26 - Feb 1 | Hadoop MapReduce & Ecosystem | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 1</strong> 
+|3 |Feb 2 - 8 | Introduction to Hive | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 2</strong>
+|4 |Feb 9 - 15 | Hive Optimization & Textual Data Handling | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 3</strong> 
+|5 |Feb 16 - 22 | Introduction to Apache Spark | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 4 </strong> 
+|6 |Feb 23 - Mar 1 | Spark SQL |  
+|7 |Mar 2 - 8 | **<span style='color:red;font-weight:bold'>Midterm Exam</span>** |  
+|8 |Mar 9 - 15 | Spark SQL & Spark ML | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 5 </strong> 
+|9 |Mar 16 - 22 | Spark ML                                                     | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 6 </strong> 
+|10 |Mar 23 - 29 | Spark Streaming |  
+|11 |Mar 30 - Apr 5 | **<span style='color:green;font-weight:bold'>Spring Break</span>** |  
+|12 |Apr 6 - 12 | Cloud Computing & AWS | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 7</strong> 
+|13 |Apr 13 - 19 | NoSQL | 
+|14 |Apr 20 - 26 | TBD | 
+|15 |Apr 27 - May 3 | **<span style='color:green;font-weight:bold'>Trend Marketplace</span>** | 
 
-Last revision: January 6, 2021
+Last revision: January 17, 2021
