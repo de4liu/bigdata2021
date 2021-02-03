@@ -14,8 +14,6 @@ Here are a few text editors that I have used and recommend. All of them are powe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIkg3Oo1PVM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FOfGv_c6ZrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 - [Visual Studio Code](https://code.visualstudio.com/): Visual Studio Code (VS Code) is a newer and immensely popular text editor. It is cross-platform, modern, and inherits the best features of outstanding text/script editors such as sublime, and make them even more professionally done, extensible, and powerful. I switched from Sublime to VS Code recently for VS Code's built-in support for jupyter notebook. It has nearly all of the sublime features that I regularly use and more. Love it so far. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5irqj-YVo4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
