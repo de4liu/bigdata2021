@@ -31,6 +31,7 @@ This repository servers as a public homepage for MSBA 6330 - Big Data Analytics 
 - [How to Fix Hive metastore db error](faqs/hive_debug.md)
 - [How to View Delimiters and Invisible Characters](faqs/viewdelimiters.md)
 - [Mount s3 folder in Databricks](faqs/mounts3.md)
+- [Mount s3 folder in Databricks](faqs/textEditor.md)
 
 
 ## Homework Related Instructions & Questions
