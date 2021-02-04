@@ -11,8 +11,8 @@
 #### Embed image in html
 
 4\. convert your image using base64 encoder using online services [https://www.base64-image.de/](https://www.base64-image.de/) 
-5\. In a markdown cell, enter an image tag, and replace the `data:image/...` portion with your encoded image from your encoder. The image should display in the rendered markdown cell. 
-    <img src="data:image/png;base64"/>
+5\. In a markdown cell, enter an image tag `<img src="data:image/png;base64"/>`, and replace the `data:image/...` portion with your encoded image from your encoder. The image should display in the rendered markdown cell. 
+    
 6\. Export the HTML and submit it.
 
 The reason that we have to embed the image is because HTML files link to images rather than embed them by default. Even though you have uploaded your image to your workspace, I cannot access this file in your space. So when you convert it to HTML and view it in a place other than your server, the image cannot be displayed. Embedding forces the HTML to store the image data within the HTML file.
