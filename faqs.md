@@ -22,9 +22,12 @@
 - [Common Issues with Running PySpark](faqs/sparkfaq.md): Addresses a few common issues with running PySpark on Cloudera VM.
 - [Install Teamviewer to enable instructor remote access to your MSBA virtual desktop](faqs/teamviewer.md)
 - [Windows command 101](faqs/windows_cmd.md)
-- [How to Fix Hive metastore db error](faqs/hive_debug.md)
 - [How to View Delimiters and Invisible Characters](faqs/viewdelimiters.md)
 - [Mount s3 folder in Databricks](faqs/mounts3.md)
+
+## Hive
+- [How to Fix Hive metastore db error](faqs/hive_debug.md)
+
 
 ## Homework Related Instructions & Questions
 
