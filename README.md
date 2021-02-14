@@ -19,7 +19,7 @@ This repository servers as a public homepage for MSBA 6330 - Big Data Analytics 
 - [How to update the Vagrant folder](faqs/update_vagrant.md)
 <!-- - [Install Cloudera VM on MSBA desktop](faqs/installVmCloud.md) -->
 - [Install Cloudera VM on your own computer](faqs/installVM.md)
-- [Install Spark Locally](https://github.com/paulovn/ml-vm-notebook): install Spark 2.4 with PySpark (2 & 3), SparkR and many other featrues (but no hadoop or Hive).
+
 - [Install Spark Updates on Cloudera VM](faqs/installSparkUpdates.md): if you run into issues, here are [suggestions for diagnosis](faqs/diagnoseSparkUpdates.md)
 
 
@@ -33,6 +33,7 @@ This repository servers as a public homepage for MSBA 6330 - Big Data Analytics 
 - [How to Fix Hive metastore db error](faqs/hive_debug.md)
 
 ## Databricks & Spark
+- [Install Apache Spark on your own computer](faqs/installLocalSpark.md): Install Apache Spark Virtual Machine with many featrues on your own computer (but no hadoop or Hive). This may take a while (e.g. 1 hour) to have everything ready.
 - [Use DataBricks Community Edition for Spark](https://databricks.com/try-databricks): Databricks provides a single node spark cluster for free. It is quite easy to start it with a Jupyter note environment. 
 - [Mount s3 folder in Databricks](faqs/mounts3.md)
 <!-- - [Install JsonSerDe on your Cloudera VM](faqs/installJsonSerDe.md) -->
