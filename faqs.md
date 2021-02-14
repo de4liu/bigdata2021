@@ -16,7 +16,7 @@
 - [Install Cloudera VM on MSBA desktop](faqs/installVmCloud.md)
 - [Install Cloudera VM on your own computer](faqs/installVM.md)
 - [Install JsonSerDe on your cloudera VM](faqs/installJsonSerDe.md)
-- [Install Spark Locally](https://github.com/paulovn/ml-vm-notebook): install Spark 2.4 with PySpark (2 & 3), SparkR and many other featrues (but no hadoop or Hive).
+- [Install Spark Locally](faqs/installLocalSpark.md): install Spark 2.4 with PySpark (2 & 3), SparkR and many other featrues (but no hadoop or Hive) on your own computer. 
 - [Use DataBricks Community Edition for Spark](https://databricks.com/try-databricks): Databricks provides a single node spark cluster for free. It is quite easy to start it with a Jupyter note environment. 
 - [Install Spark Updates on Cloudera VM](faqs/installSparkUpdates.md): if you run into issues, here are [suggestions for diagnosis](faqs/diagnoseSparkUpdates.md)
 - [Common Issues with Running PySpark](faqs/sparkfaq.md): Addresses a few common issues with running PySpark on Cloudera VM.
