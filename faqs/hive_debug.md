@@ -16,7 +16,7 @@ Please take the follow steps:
 
 1. Close all other Hive instances (hive shells) and try again. This includes closing all notebooks and terminals but the current one. The second icon (a circle with a square hole) on the left panel will show all the running notebooks and terminals with a "Shut down" button.
 2. If the error persists, you can try to reinitialize Hive by running this hive setup script `~/MSBA6330/uploads/setup_hive.sh`. Note that, after this, you also need to reinstall the databases that you need (see relevant lab instructions)
-3. You may restart the course server.
+3. You may restart the course server (by going to menu: file > hub control panel > stop server )
 
 
 
