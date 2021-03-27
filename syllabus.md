@@ -198,7 +198,8 @@ To make this class more accessible to all enrolled students, we intend to record
 |11 |Mar 30 - Apr 5 | **<span style='color:green;font-weight:bold'>Spring Break</span>** |  
 |12 |Apr 6 - 12 | Cloud Computing & AWS | <span style='color:red;font-weight:bold'>Due:</span> <strong>Homework 7</strong> 
 |13 |Apr 13 - 19 | NoSQL | 
-|14 |Apr 20 - 26 | TBD | 
+|14 |Apr 20 - 26 | Review and More Use Cases | 
 |15 |Apr 27 - May 3 | **<span style='color:green;font-weight:bold'>Trend Marketplace</span>** | 
+|16 |May 8 (Saturday) | <span style='color:red;font-weight:bold'>Final Exam: 8:00-12:00 (Remote)</span> | 
 
-Last revision: January 17, 2021
+Last revision: March 27, 2021
