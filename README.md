@@ -1,4 +1,4 @@
-# MSBA 6330 Big Data Analytics (Spring 2021)
+# MSBA 6330 Big Data Analytics (Fall 2022)
 
 This repository servers as a public homepage for MSBA 6330 - Big Data Analytics at Carlson School, University of Minnesota. It also hosts the syllabus and FAQs. 
 
